@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCode</string>
+    <string name="hello">Hello</string>
+    <string name="jeevan">Jeevan</string>
+    <string name="search_element">Search Element</string>
+    <string name="c_language">C Language</string>
+
+
+</resources>
